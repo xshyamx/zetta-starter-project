@@ -13,6 +13,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "zetta": "^0.13.0"
+    "zetta": "^0.14.0"
   }
 }

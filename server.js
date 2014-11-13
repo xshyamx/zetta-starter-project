@@ -5,5 +5,6 @@ var zetta = require('zetta'),
 // 172.16.1.16
 zetta()
   .name('xshyamx')
+  .link('http://hello-zetta.herokuapp.com')
   .use(Buzzer)
   .listen(1337);

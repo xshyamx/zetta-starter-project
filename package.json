@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "zetta": "*"
+    "zetta": "*",
+    "zetta-buzzer-edison-driver": "^0.9.0"
   }
 }

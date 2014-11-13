@@ -15,3 +15,4 @@ This is a template for your Zetta projects.
 3. Add Buzzer & Microphone
 4. Control the buzzer from the browser :)
 5. Write an app to beep the buzzer when the microphone output goes above a threshold
+6. Add an LED and write a driver for the LED

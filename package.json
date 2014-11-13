@@ -13,7 +13,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "mraa-js": "^0.1.0",
     "zetta": "*",
+    "zetta-bean-driver": "^0.2.0",
     "zetta-buzzer-edison-driver": "^0.9.0",
     "zetta-microphone-edison-driver": "^0.6.0"
   }
